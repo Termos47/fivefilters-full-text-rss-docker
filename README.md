@@ -1,5 +1,7 @@
 # Docker Image for fivefilters Full-Text RSS service
 
+Этот репозиторий будет основан на репозитории https://github.com/heussd/fivefilters-full-text-rss-docker.git, изменения не затронут основную работу сайта а лиши конфигурационные файлы.
+
 This is a containerized version of [fivefilters full-text-rss](https://www.fivefilters.org/full-text-rss/), which retrieves the full-text of individual articles or complete full-text RSS feeds.
 
 Not affiliated with [fivefilters.org](http://fivefilters.org/). The Dockerfile is licensed under [MIT conditions](LICENSE).
