@@ -20,7 +20,7 @@ services:
         image: 'heussd/fivefilters-full-text-rss:latest'
         environment:
             # Leave empty to disable admin section
-            - FTR_ADMIN_PASSWORD=1234 #CHANGE PASSWPRD
+            - FTR_ADMIN_PASSWORD=1234 #CHANGE PASSWORD
         volumes:
             - 'rss-cache:/var/www/html/cache/rss'
         ports:
