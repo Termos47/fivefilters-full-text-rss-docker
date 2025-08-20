@@ -1,10 +1,4 @@
-# fivefilters-full-text-rss-docker
-
 # Docker Image for fivefilters Full-Text RSS service
-
-![Docker build and push](https://github.com/heussd/fivefilters-full-text-rss-docker/workflows/Docker%20build%20and%20push/badge.svg)
-![Number of Image Pulls](https://img.shields.io/docker/pulls/heussd/fivefilters-full-text-rss)
-![Image size](https://img.shields.io/docker/image-size/heussd/fivefilters-full-text-rss/latest)
 
 This is a containerized version of [fivefilters full-text-rss](https://www.fivefilters.org/full-text-rss/), which retrieves the full-text of individual articles or complete full-text RSS feeds.
 
