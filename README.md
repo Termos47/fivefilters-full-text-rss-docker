@@ -1,6 +1,6 @@
 # Docker Image for fivefilters Full-Text RSS service
 
-## Этот репозиторий основан на репозитории https://github.com/heussd/fivefilters-full-text-rss-docker.git, изменения не затронут основную работу сайта а лиши конфигурационные файлы.
+## Этот репозиторий основан на репозитории https://github.com/heussd/fivefilters-full-text-rss-docker.git, изменения не затронут основную работу сайта а лишь конфигурационные файлы и перевод на русский язык.
 
 ![Docker build and push](https://github.com/heussd/fivefilters-full-text-rss-docker/workflows/Docker%20build%20and%20push/badge.svg)
 ![Number of Image Pulls](https://img.shields.io/docker/pulls/heussd/fivefilters-full-text-rss)
